@@ -17,9 +17,9 @@
             const x = parseInt(document.getElementById('inputIQ').value);
             const result = document.getElementById('result');
             if (x > 0) {
-                result.innerHTML = "Ridi koskhol khayemal.";
+                result.innerHTML = "ریدی کصخل خایمال واقعا چی توی مغزت میگذشت که این رو انتخاب کردی؟";
             } else {
-                result.innerHTML = "Afarin to branded shodi.";
+                result.innerHTML = "افرین تو بردی";
             }
         }
     </script>
